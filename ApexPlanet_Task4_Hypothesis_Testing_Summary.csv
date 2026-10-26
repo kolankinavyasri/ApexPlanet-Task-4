@@ -1,0 +1,8 @@
+Metric,Result
+Test,One-way ANOVA
+F-statistic,0.7171
+P-value,0.580286
+Significance level,0.05
+Decision,Fail to reject the null hypothesis
+Business conclusion,Insufficient evidence that mean sales differ across product categories
+Levene test p-value,0.418205

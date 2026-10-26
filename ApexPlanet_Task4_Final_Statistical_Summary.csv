@@ -1,0 +1,4 @@
+Test,Statistic,P-value,Significance Level,Decision,Interpretation
+One-way ANOVA,0.7171167721714615,0.5802864995731378,0.05,Fail to reject H0,No significant evidence of different category means
+Kruskal-Wallis,2.0066349326366435,0.7345384569224721,0.05,Fail to reject H0,No significant evidence of different category distributions
+Levene's test,0.9786522400359224,0.41820516679748243,0.05,Fail to reject H0,No significant evidence of unequal variances
